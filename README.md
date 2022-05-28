@@ -1,4 +1,4 @@
-![баннер]((https://share.creavite.co/sN4TNcXxuz0RclGU.png))
+![баннер](https://share.creavite.co/sN4TNcXxuz0RclGU.png)
 
 👋🏻 Hi everyone, I'm Nikon!
 💻 Server Discord: 
