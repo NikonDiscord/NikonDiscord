@@ -1,7 +1,6 @@
-![баннер](https://share.creavite.co/sN4TNcXxuz0RclGU.png)
+
 
 👋🏻 Hi everyone, I'm Nikon!
-💻 Server Discord: 
 
 <div align="center">
   <a href="https://discord.gg/8k9wbbEMYT"><img alt="Discord" style="height: 26px" src="https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg" /></a>
